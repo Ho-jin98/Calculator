@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-introduce my calculator
+introduce my calculator project
 
 
 
